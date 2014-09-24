@@ -1,0 +1,62 @@
+Articular_Cartilage:
+   Distribution_Minerals: Collagen
+   Distribution_Pattern_Function: Load dissipation
+   Distribution_Patterns: Fluid
+   Distribution_Size: 1,000 fibril segments in 10 micron diameter sample
+   Pattern_Geometry: Water and Fibril Cartilage Skeleton
+   Physical_Characteristic_for_Youngs_Modulus: Fluid has 0.625 MPa
+   Physical_Function: Varying response to mechanical loading
+   Physical_Indentation: No Data
+   Physical_Optimization: Strength varies with direction of material microstructures
+   Physical_Performance: Osmotic Pressure
+   Void_Adaptation: Varying Orientation Load Distribution
+   Void_Connection: Proteoglycan Molecule Saline Solution
+   Void_Connective_Structure: Saturated Gel Elastic Skeleton
+   Void_Density: 1050 kg/m\^3
+   Void_Function: Load Energy Dissipation
+   Void_Inner_Layer: Reinforced Collagen Fibers
+   Void_Optimization: Time Varying Response to Mechanical Loading
+   Void_Outer_Layer: Fluid Saturated Gel Skeleton
+   Void_Shape: Sparse Fibrous Network
+Toucan_Beak:
+   Distribution_Minerals: 25% Calcium
+   Distribution_Pattern_Function: Preventing Shell Deformation and Collapse
+   Distribution_Patterns: Struts and Fibers
+   Distribution_Size: Keratin scales are 50 micrometers in diameter and 1 micrometer
+      thick glued together to form sheets
+   Pattern_Geometry: Piled and staggered Hexagonal keratin scales
+   Physical_Characteristic_for_Youngs_Modulus: Foam Compression 5.6 MPa
+   Physical_Function: Closed air-filled spaces reduce overall weight
+   Physical_Indentation: Beak is 480 GPA for nano-indentation and 280 MPa for micro-indentation
+   Physical_Optimization: Beak resists bending and twisting forces despite its size
+   Physical_Performance: Tightly packed foam cells contribute to beak rigidity
+   Void_Adaptation: Energy Absorption Capacity to Resist Compression
+   Void_Connection: Fiber Struts
+   Void_Connective_Structure: Organic Glue
+   Void_Density: 50 kg/m\^3
+   Void_Function: Prevent Crack Propagation
+   Void_Inner_Layer: Closed-Cell Fibrous Foam covered with overlapping Keratin scales
+   Void_Optimization: Foam Stabilization To Retard Shell Collapse
+   Void_Outer_Layer: Keratin Exterior Shell
+   Void_Shape: Staggered Overlapping Hexagonal Thin Plates
+Wood_Pecker_Scull:
+   Distribution_Minerals: Carbonate Hydroxylapatite
+   Distribution_Pattern_Function: Reduce transmission of vibrations
+   Distribution_Patterns: Tightly Packed Brain Cranium
+   Distribution_Size: No Data
+   Pattern_Geometry: Rod-like bone structure in Beak
+   Physical_Characteristic_for_Youngs_Modulus: Cranium has hardness of 306.50+/- 19.42
+      MPa
+   Physical_Function: Hyoid Bone Acts as Elastic Shock Absorber
+   Physical_Indentation: Beak is 470 MPa for nano-indentation and 320 MPa for micro-indentation
+   Physical_Optimization: Even distribution of vibration loads over cranium
+   Physical_Performance: Strong and Self-Sharpening Beak
+   Void_Adaptation: Resistance to Impact Injury
+   Void_Connection: Cartilage Bone Skeleton and Tissue Layer
+   Void_Connective_Structure: Hierarchical Fiber Connection
+   Void_Density: 1456 kg/m\^3
+   Void_Function: Shock Absorbing
+   Void_Inner_Layer: Spongy Cartilage
+   Void_Optimization: Mechanical Properties for Impact Resistance
+   Void_Outer_Layer: Spongy Cartilage
+   Void_Shape: Plate-Like Stacking

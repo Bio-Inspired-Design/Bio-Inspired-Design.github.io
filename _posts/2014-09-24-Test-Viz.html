@@ -1,0 +1,31 @@
+---
+layout: tree
+src: tonyfast/bio-example
+---
+
+# About this Post
+
+This post was generated from Tyrone's example dataset.  It is uses a [Draggable/Collapsible
+Tree Layout](http://mbostock.github.io/d3/talk/20111018/tree.html).
+
+## How to Make a Post
+
+### ``_data`` Add Site Data
+
+In the folder ``_data``
+
+  1. Create a folder with your username name (e.g. ``_data/tonyfast``)
+  1. Add a ``json`` or ``yaml`` file to that folder for site-wide data access.
+    The name of this file should be semi-descriptive ``tonyfast/feral-bird-beak.yaml``
+
+### ``_posts`` Create Post
+
+  1. Add a post with the format ``YYYY-MM-DD-title-of-post.html``.
+  2. Edit Front Matter
+
+{% highlight YAML %}
+{% raw %}---{% endraw %}
+layout: viz
+src: username/filename # tonyfast/bio-example
+{% raw %}---{% endraw %}
+{% endhighlight %}
